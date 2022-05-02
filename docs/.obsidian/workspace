@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Frequently Used Patterns.md",
+            "file": "Data_Structure_And_Algorithm/Linked_List.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Frequently Used Patterns.md",
+                "file": "Data_Structure_And_Algorithm/Linked_List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Frequently Used Patterns.md",
+                "file": "Data_Structure_And_Algorithm/Linked_List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Frequently Used Patterns.md"
+                "file": "Data_Structure_And_Algorithm/Linked_List.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "229c0d088ef967c9",
   "lastOpenFiles": [
-    "Python/Frequently Used Patterns.md",
-    "Data Structure And Algorithm/Greedy Algorithms.md",
-    "Data Engineering/Architecture and Principles/Core Concepts/Partitioning.md",
+    "Data_Structure_And_Algorithm/Linked_List.md",
+    "Python/Frequently_Used_Patterns.md",
+    "Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+    "Data_Engineering/Architecture_and_Principles/Core_Concepts/Partitioning.md",
     "Data Engineering/Architecture and Principles/Core Concepts.md",
-    "Data Structure And Algorithm/Linked List.md",
     "Data Engineering.md",
-    "Data Structure And Algorithm/Paradigm.md",
+    "Data_Structure_And_Algorithm/Paradigm.md",
     "1.md",
     "202204301933.md",
-    "Data Structure And Algorithm/Arrays.md"
+    "Data_Structure_And_Algorithm/Arrays.md"
   ]
 }
