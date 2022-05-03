@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blogs/Fraud Detection System.md",
+            "file": "home.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Fraud Detection System.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Fraud Detection System.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/Fraud Detection System.md"
+                "file": "home.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "a1fafa55549e8342",
   "lastOpenFiles": [
-    "Blogs/Fraud Detection System.md",
+    "home.md",
     "Notes/Python/Frequently_Used_Patterns.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "home.md",
     "Notes/Data_Structure_And_Algorithm/Linked_List.md",
     "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
     "Data Engineering/Architecture and Principles/Core Concepts.md",
     "Data Engineering.md",
     "Notes/Data_Structure_And_Algorithm/Paradigm.md",
-    "1.md"
+    "1.md",
+    "202204301933.md"
   ]
 }
