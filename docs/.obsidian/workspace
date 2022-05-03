@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About Me.md",
+            "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Me.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About Me.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About Me.md"
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md"
               }
             }
           }
@@ -129,9 +129,9 @@
   },
   "active": "a1fafa55549e8342",
   "lastOpenFiles": [
+    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "About Me.md",
     "Notes/Python/Frequently_Used_Patterns.md",
-    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "Notes/Data_Structure_And_Algorithm/Linked_List.md",
     "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
     "Data Engineering/Architecture and Principles/Core Concepts.md",

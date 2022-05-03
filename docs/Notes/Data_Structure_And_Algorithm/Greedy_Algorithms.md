@@ -41,7 +41,7 @@ Most problems for which they work will have two properties
 ##  Problem List (Vague cluster)
 - Standard Greedy Algorithms
 	- [ Activity Selection Problem ](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/) / [ Meeting Room ](https://leetcode.com/problems/meeting-rooms/) /  
-	- [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+	- [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Done
 	- [# Greedy Algorithm for Egyptian Fraction](https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/)
 	- [# Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
 	- 
