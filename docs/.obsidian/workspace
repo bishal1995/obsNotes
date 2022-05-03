@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Python/Frequently_Used_Patterns.md",
+            "file": "Blogs/Fraud Detection System.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Python/Frequently_Used_Patterns.md",
+                "file": "Blogs/Fraud Detection System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Python/Frequently_Used_Patterns.md",
+                "file": "Blogs/Fraud Detection System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Python/Frequently_Used_Patterns.md"
+                "file": "Blogs/Fraud Detection System.md"
               }
             }
           }
@@ -129,6 +129,7 @@
   },
   "active": "a1fafa55549e8342",
   "lastOpenFiles": [
+    "Blogs/Fraud Detection System.md",
     "Notes/Python/Frequently_Used_Patterns.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "home.md",
@@ -137,7 +138,6 @@
     "Data Engineering/Architecture and Principles/Core Concepts.md",
     "Data Engineering.md",
     "Notes/Data_Structure_And_Algorithm/Paradigm.md",
-    "1.md",
-    "202204301933.md"
+    "1.md"
   ]
 }
