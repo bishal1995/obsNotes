@@ -1,3 +1,1 @@
-Welcome !! Please browse the menu for notes.
-This if from another machine
-from Linux
+Welcome !! Please browse the menu for notes and blogs
