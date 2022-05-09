@@ -1,0 +1,1 @@
+How do I model the information contained in various DS Algo questions , This would require how do I approach a question when I have seen in first place (untagged !! and without any suggestion).
