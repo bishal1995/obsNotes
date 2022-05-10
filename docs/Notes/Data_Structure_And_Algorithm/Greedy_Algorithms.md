@@ -43,5 +43,5 @@ Most problems for which they work will have two properties
 	- [[Intervals]]
 		- [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)/  [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#))[ Activity Selection Problem ](https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/) / [ Meeting Room ](https://leetcode.com/problems/meeting-rooms/) / 
 	- [# Greedy Algorithm for Egyptian Fraction](https://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/)
-	- [# Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/)
+	- [# Job Sequencing Problem](https://www.geeksforgeeks.org/job-sequencing-problem/) / (https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460)
 	- 

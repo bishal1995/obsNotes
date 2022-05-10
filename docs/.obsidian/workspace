@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3816eda96875e9a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Blogs/DSALgo-Heuristics.md",
-            "mode": "source"
+        "id": "4624d76d321b1769",
+        "type": "split",
+        "children": [
+          {
+            "id": "3816eda96875e9a0",
+            "type": "leaf",
+            "dimension": 65.79111944965604,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "6cdd9c7311c6156f",
+            "type": "leaf",
+            "dimension": 34.20888055034397,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/DSALgo-Heuristics.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/DSALgo-Heuristics.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blogs/DSALgo-Heuristics.md"
+                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md"
               }
             }
           }
@@ -129,15 +149,15 @@
   },
   "active": "3816eda96875e9a0",
   "lastOpenFiles": [
-    "Blogs/DSALgo-Heuristics.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "Intervals.md",
     "Notes/Python/Frequently_Used_Patterns.md",
-    "About Me.md",
+    "Notes/Data_Structure_And_Algorithm/Paradigm.md",
     "Notes/Data_Structure_And_Algorithm/Linked_List.md",
+    "Blogs/DSALgo-Heuristics.md",
+    "Intervals.md",
+    "About Me.md",
     "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
     "Data Engineering/Architecture and Principles/Core Concepts.md",
-    "Data Engineering.md",
-    "Notes/Data_Structure_And_Algorithm/Paradigm.md"
+    "Data Engineering.md"
   ]
 }
