@@ -13,4 +13,4 @@
 	 ```python
 	arr = [0]*n
   	``` 
-- This
+- This is in my phone

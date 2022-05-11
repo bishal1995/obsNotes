@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md"
+                "file": "Notes/Python/Frequently_Used_Patterns.md"
               }
             }
           }
@@ -147,11 +147,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3816eda96875e9a0",
+  "active": "6cdd9c7311c6156f",
   "lastOpenFiles": [
+    "Notes/Python/Frequently_Used_Patterns.md",
     "Notes/Data_Structure_And_Algorithm/Recursion.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "Notes/Python/Frequently_Used_Patterns.md",
     "Notes/Data_Structure_And_Algorithm/Paradigm.md",
     "Notes/Data_Structure_And_Algorithm/Linked_List.md",
     "Blogs/DSALgo-Heuristics.md",
