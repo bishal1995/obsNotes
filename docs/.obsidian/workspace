@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-                "mode": "source"
+                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "mode": "preview"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md"
+                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3816eda96875e9a0",
   "lastOpenFiles": [
+    "Notes/Data_Structure_And_Algorithm/Recursion.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "Notes/Python/Frequently_Used_Patterns.md",
     "Notes/Data_Structure_And_Algorithm/Paradigm.md",
@@ -157,7 +158,6 @@
     "Intervals.md",
     "About Me.md",
     "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
-    "Data Engineering/Architecture and Principles/Core Concepts.md",
-    "Data Engineering.md"
+    "Data Engineering/Architecture and Principles/Core Concepts.md"
   ]
 }
