@@ -1,0 +1,2 @@
+- Generating permutations of an array : Recursive approach to include or reject an element in every step
+	- Time complexity : O(2^N) 

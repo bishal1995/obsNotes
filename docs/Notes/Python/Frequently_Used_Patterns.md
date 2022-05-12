@@ -13,4 +13,16 @@
 	 ```python
 	arr = [0]*n
   	``` 
-- This is in my phone
+- Single liner list transformation
+```python
+lp = [1,2,3]
+op = [ str(x) for x in lp ] 
+# op = ['1','2','3']
+```
+- Join List of string
+```python
+text = ['Python', 'is', 'a', 'fun', 'programming', 'language']
+# join elements of text with space
+print(' '.join(text))
+# Output: Python is a fun programming language
+```
