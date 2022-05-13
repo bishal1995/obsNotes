@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4624d76d321b1769",
-        "type": "split",
-        "children": [
-          {
-            "id": "3816eda96875e9a0",
-            "type": "leaf",
-            "dimension": 57.96377264209869,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "6cdd9c7311c6156f",
-            "type": "leaf",
-            "dimension": 42.03622735790131,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Python/Frequently_Used_Patterns.md",
-                "mode": "source"
-              }
-            }
+        "id": "3816eda96875e9a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Python/Frequently_Used_Patterns.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md"
+                "file": "Notes/Python/Frequently_Used_Patterns.md"
               }
             }
           }
@@ -149,8 +129,8 @@
   },
   "active": "3816eda96875e9a0",
   "lastOpenFiles": [
-    "Notes/Data_Structure_And_Algorithm/Recursion.md",
     "Notes/Python/Frequently_Used_Patterns.md",
+    "Notes/Data_Structure_And_Algorithm/Recursion.md",
     "Notes/Data_Structure_And_Algorithm/Common Techniques.md",
     "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "Notes/Data_Structure_And_Algorithm/Paradigm.md",

@@ -12,9 +12,17 @@ In a recursive algorithm, the computer "remembers" every previous state of the p
 Every function has its own workspace **PER CALL** of the function.
 
 
-## Loops and Tail Recursion
 
+## General Observation/Techniques
+-	Try to visualise the problem in terms of recurssion tree representation of the problem
+	-	Try guessing the time and space Complexity
+	-	
+
+
+## Loops and Tail Recursion
 Some recursive algorithms are very similar to loops. These algorithms are called "tail recursive" because the last statement in the algorithm is to "restart" the algorithm. Tail recursive algorithms can be directly translated into loops.
+
+
 
 - Subset
 	- [Generate Subset](https://leetcode.com/problems/subsets-ii/)
