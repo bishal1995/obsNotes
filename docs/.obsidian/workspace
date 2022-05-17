@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+            "file": "Notes/Python/Frequently_Used_Patterns.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md",
+                "file": "Notes/Python/Frequently_Used_Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Recursion.md"
+                "file": "Notes/Python/Frequently_Used_Patterns.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "3816eda96875e9a0",
   "lastOpenFiles": [
-    "Notes/Data_Structure_And_Algorithm/Recursion.md",
-    "Todo.md",
     "Notes/Python/Frequently_Used_Patterns.md",
-    "Notes/Data_Structure_And_Algorithm/Common Techniques.md",
     "Notes/Data_Structure_And_Algorithm/Backtracking.md",
+    "Blogs/DSALgo-Heuristics.md",
+    "Notes/Data_Structure_And_Algorithm/Recursion.md",
     "Notes/Data_Structure_And_Algorithm/DIvide and Conquer.md",
     "Notes/Data_Structure_And_Algorithm/Dynamic Programming.md",
+    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "Notes/Data_Structure_And_Algorithm/Linked_List.md",
-    "Notes/Data_Structure_And_Algorithm/Arrays.md",
-    "Blogs/Untitled.md"
+    "Notes/Data_Structure_And_Algorithm/Paradigm.md",
+    "Todo.md"
   ]
 }

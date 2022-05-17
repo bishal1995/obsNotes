@@ -35,6 +35,10 @@ Some recursive algorithms are very similar to loops. These algorithms are called
 	- [Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sums2234)
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) Good Question
 - [All Permutations](https://leetcode.com/problems/permutations/)
+- [Print all possible expressions that evaluate to a target(Similar)Todo](https://leetcode.com/problems/24-game/) [GFG](https://leetcode.com/problems/24-game/)
+- [Generate all binary strings without consecutive 1’s *Todo*](https://www.geeksforgeeks.org/generate-binary-strings-without-consecutive-1s/)
+- [Recursive solution to count substrings with same first and last characters *Todo*](https://www.geeksforgeeks.org/recursive-solution-count-substrings-first-last-characters/)
+- [Combinations in a String of Digits *Todo*](https://www.geeksforgeeks.org/combinations-string-digits/)
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 - [Palindrome partitioning](https://leetcode.com/problems/palindrome-partitioning/) , [GFG](https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/?ref=lbp) Using recursion
 - Median of 2 sorted Array
