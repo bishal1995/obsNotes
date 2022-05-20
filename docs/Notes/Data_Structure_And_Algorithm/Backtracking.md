@@ -29,8 +29,11 @@ The backtracking algorithm reduces the problem to the call _backtrack_(_root_(_P
 	- if accept(P, c) **then** output(P, c)
 	- s ← first(P, c)
 	- while s ≠ NULL **do**
-		-backtrack(s)
-		-s ← next(P, s)
+		- backtrack(s)
+		- s ← next(P, s)
 		
 ### Problems
 - [N Queen Problem](https://leetcode.com/problems/n-queens/)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [Map Coloring Problem](https://www.codingninjas.com/codestudio/problems/981273)
+- [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem)
