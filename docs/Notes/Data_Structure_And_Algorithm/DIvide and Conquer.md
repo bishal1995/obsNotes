@@ -1,1 +1,0 @@
-Divde all

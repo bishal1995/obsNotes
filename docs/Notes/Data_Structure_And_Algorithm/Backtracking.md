@@ -35,5 +35,5 @@ The backtracking algorithm reduces the problem to the call _backtrack_(_root_(_P
 ### Problems
 - [N Queen Problem](https://leetcode.com/problems/n-queens/)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem) **good question**
 - [Map Coloring Problem](https://www.codingninjas.com/codestudio/problems/981273)
-- [Rat in a Maze Problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem)
