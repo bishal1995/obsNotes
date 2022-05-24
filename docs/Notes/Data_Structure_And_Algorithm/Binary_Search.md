@@ -36,9 +36,4 @@ This iterative procedure keeps track of the search boundaries with the two varia
 - 
 
 
-
-
-
-## todo
-- N th Root of M
-- 
+### Refer https://www.geeksforgeeks.org/divide-and-conquer/ For Binary search problems

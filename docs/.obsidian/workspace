@@ -130,14 +130,14 @@
   "active": "fe8add7a303319b0",
   "lastOpenFiles": [
     "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
-    "Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "Notes/Data_Structure_And_Algorithm/Heap.md",
     "Notes/Data_Structure_And_Algorithm/Binary_Search.md",
+    "Notes/Data_Structure_And_Algorithm/Arrays.md",
     "Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
-    "Notes/Data_Structure_And_Algorithm/Common_Techniques.md",
-    "2.md",
-    "Notes/Data_Structure_And_Algorithm/Backtracking.md",
-    "Todo.md",
-    "Notes/Python/Frequently_Used_Patterns.md",
-    "Blogs/DSALgo-Heuristics.md"
+    "Notes/Data_Structure_And_Algorithm/Segment_tree.md",
+    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+    "Notes/Data_Structure_And_Algorithm/Linked_List.md",
+    "Notes/Data_Structure_And_Algorithm/Sorting.md",
+    "Notes/Data_Structure_And_Algorithm/Common_Techniques.md"
   ]
 }
