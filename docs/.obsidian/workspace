@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
+            "file": "Notes/System_Design/Elements.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
+                "file": "Notes/System_Design/Elements.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
+                "file": "Notes/System_Design/Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md"
+                "file": "Notes/System_Design/Elements.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "fe8add7a303319b0",
   "lastOpenFiles": [
+    "Notes/System_Design/Elements.md",
+    "Notes/Architecture_and_Principles/Spark/Spark_Streaming_(DStream).md",
+    "Todo.md",
+    "Files/streaming-flow.png",
     "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
     "Notes/Data_Structure_And_Algorithm/Heap.md",
     "Notes/Data_Structure_And_Algorithm/Binary_Search.md",
     "Notes/Data_Structure_And_Algorithm/Arrays.md",
     "Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
-    "Notes/Data_Structure_And_Algorithm/Segment_tree.md",
-    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "Notes/Data_Structure_And_Algorithm/Linked_List.md",
-    "Notes/Data_Structure_And_Algorithm/Sorting.md",
-    "Notes/Data_Structure_And_Algorithm/Common_Techniques.md"
+    "Notes/Data_Structure_And_Algorithm/Segment_tree.md"
   ]
 }

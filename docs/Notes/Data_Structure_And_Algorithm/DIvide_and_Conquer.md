@@ -11,7 +11,7 @@ For some problems, the branched recursion may end up evaluating the same sub-pro
 
 ### Problems
 - Find Median
-	- [Median of Two Sorted Arrays of Same Size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
+	- [Median of Two Sorted Arrays of Same Size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/) expected TC :  O(log(n))
 	- [Median of Two Sorted Arrays of Different Size - LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) [GFG](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
 - Greatest Common Divisor
 - Multiply 2 n digit number - Karatsuba [Leetcode](https://leetcode.com/problems/multiply-strings/)[GFG](https://www.geeksforgeeks.org/karatsuba-algorithm-for-fast-multiplication-using-divide-and-conquer-algorithm/)
