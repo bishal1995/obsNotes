@@ -48,3 +48,18 @@ Spark Streaming also provides _windowed computations_, which allow you to apply 
 These two parameters must be multiples of the batch interval of the source DStream (1 in the figure).
 ![[streaming-dstream-window.png]]
 
+#### Join Operations
+You can perform different kinds of joins in Spark Streaming.(`leftOuterJoin`, `rightOuterJoin`, `fullOuterJoin`).
+
+#### [Caching / Persistence](https://spark.apache.org/docs/latest/streaming-programming-guide.html#caching--persistence)
+This is useful if the data in the DStream will be computed multiple times (e.g., multiple operations on the same data). For window-based operations like `reduceByWindow` and `reduceByKeyAndWindow` and state-based operations like `updateStateByKey`, this is implicitly true.
+
+#### [Checkpointing](https://spark.apache.org/docs/latest/streaming-programming-guide.html#checkpointing)
+Spark Streaming needs to _checkpoint_ enough information to a fault- tolerant storage system such that it can recover from failures. There are two types of data that are checkpointed.
+
+-   _Metadata checkpointing_ - Saving of the information defining the streaming computation to fault-tolerant storage like HDFS. This is used to recover from failure of the node running the driver of the streaming application (discussed in detail later). Metadata includes:
+    -   _Configuration_ - The configuration that was used to create the streaming application.
+    -   _DStream operations_ - The set of DStream operations that define the streaming application.
+    -   _Incomplete batches_ - Batches whose jobs are queued but have not completed yet.
+-   _Data checkpointing_ - Saving of the generated RDDs to reliable storage. This is necessary in some _stateful_ transformations that combine data across multiple batches. In such transformations, the generated RDDs depend on RDDs of previous batches, which causes the length of the dependency chain to keep increasing with time. To avoid such unbounded increases in recovery time (proportional to dependency chain), intermediate RDDs of stateful transformations are periodically _checkpointed_ to reliable storage (e.g. HDFS) to cut off the dependency chains.
+
