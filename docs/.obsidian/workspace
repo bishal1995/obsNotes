@@ -130,14 +130,14 @@
   "active": "fe8add7a303319b0",
   "lastOpenFiles": [
     "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
-    "Notes/Data_Structure_And_Algorithm/Union_FInd(Disjoint_Set).md",
+    "Notes/Architecture_and_Principles/Flink/Architecture.md",
+    "Files/local-state.png",
+    "Notes/Architecture_and_Principles/Framework map.md",
+    "Todo.md",
     "Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "Notes/Data_Structure_And_Algorithm/Union_FInd(Disjoint_Set).md",
     "Notes/Data_Structure_And_Algorithm/Common_Techniques.md",
     "Notes/Data_Structure_And_Algorithm/Segment_tree.md",
-    "Notes/Architecture_and_Principles/Spark/Spark_Streaming_(DStream).md",
-    "Notes/System_Design/Elements.md",
-    "Todo.md",
-    "Files/streaming-flow.png",
-    "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md"
+    "Notes/Architecture_and_Principles/Spark/Spark_Streaming_(DStream).md"
   ]
 }
