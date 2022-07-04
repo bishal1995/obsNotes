@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
+            "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
+                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
+                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md"
+                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "71ccc71e77679f6d",
   "lastOpenFiles": [
+    "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
+    "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
+    "Notes/Architecture_and_Principles/Elements/Spark/Structured_Streaming..md",
+    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+    "Files/pdfs/Dstream_Spark.pdf",
+    "Files/structured-streaming-window.png",
+    "Notes/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
+    "Files/api-stack.png",
     "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
-    "Notes/Architecture_and_Principles/Flink/Architecture.md",
-    "Whats_the_plan..md",
-    "Notes/Architecture_and_Principles/Spark/What_is_it ?.md",
-    "Files/pdfs/flink-deb.pdf",
-    "Files/pdfs/spark_streaming.pdf",
-    "Notes/Data_Structure_And_Algorithm/DIvide_and_Conquer.md",
-    "Notes/Data_Structure_And_Algorithm/Common_Techniques.md",
-    "Notes/Architecture_and_Principles/Framework map.md",
-    "Files/local-state.png"
+    "Notes/Architecture_and_Principles/Framework map.md"
   ]
 }
