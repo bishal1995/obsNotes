@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
+            "file": "Notes/Architecture_and_Principles/Elements/Postgres_Architecture.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
+                "file": "Notes/Architecture_and_Principles/Elements/Postgres_Architecture.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
+                "file": "Notes/Architecture_and_Principles/Elements/Postgres_Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md"
+                "file": "Notes/Architecture_and_Principles/Elements/Postgres_Architecture.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "71ccc71e77679f6d",
   "lastOpenFiles": [
+    "Notes/Architecture_and_Principles/Elements/Postgres_Architecture.md",
+    "Notes/Architecture_and_Principles/Elements/Flink/Architecture.md",
+    "Notes/Architecture_and_Principles/Framework map.md",
+    "Notes/Data_Structure_And_Algorithm/Paradigm.md",
+    "Notes/Data_Structure_And_Algorithm/Linked_List.md",
+    "Files/bounded-unbounded.png",
+    "Notes/Architecture_and_Principles/Core_Concepts/Data Mesh.md",
+    "Files/big-data-platform.png",
     "Notes/Architecture_and_Principles/Core_Concepts/Data Lake.md",
-    "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md",
-    "Notes/Architecture_and_Principles/Elements/Spark/Structured_Streaming..md",
-    "Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "Files/pdfs/Dstream_Spark.pdf",
-    "Files/structured-streaming-window.png",
-    "Notes/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
-    "Files/api-stack.png",
-    "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
-    "Notes/Architecture_and_Principles/Framework map.md"
+    "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md"
   ]
 }

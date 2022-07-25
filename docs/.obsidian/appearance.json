@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "monospaceFontFamily": "DejaVu Sans Mono",
   "translucency": true,
-  "cssTheme": "Wasp"
+  "cssTheme": "Wasp",
+  "baseFontSize": 18
 }
