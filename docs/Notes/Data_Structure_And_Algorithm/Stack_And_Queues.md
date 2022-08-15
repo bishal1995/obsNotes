@@ -30,6 +30,7 @@ For example,
 - [Queue using stack](https://practice.geeksforgeeks.org/problems/queue-using-stack/)
 - [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/)
 - [Next Greater Element - Linear TC](https://leetcode.com/problems/next-greater-element-i/)
-- [LRU Cache](https://leetcode.com/problems/lru-cache/)
-- [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+- Cache Implementation using stacks and queue
+	- [LRU Cache](https://leetcode.com/problems/lru-cache/)
+	- [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 - 
