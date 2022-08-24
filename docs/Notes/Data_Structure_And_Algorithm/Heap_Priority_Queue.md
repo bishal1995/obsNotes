@@ -6,50 +6,30 @@ The heap is one maximally efficient implementation of an [abstract data type](ht
 
 A common implementation of a heap is the [binary heap](https://en.wikipedia.org/wiki/Binary_heap "Binary heap"), in which the tree is a [binary tree](https://en.wikipedia.org/wiki/Binary_tree)
 ![[Max-Heap-new.svg]]
-The common operations involving heaps are:
-
-Basic
-
--   _find-max_ (or _find-min_): find a maximum item of a max-heap, or a minimum item of a min-heap, respectively (a.k.a. _[peek](https://en.wikipedia.org/wiki/Peek_(data_type_operation) "Peek (data type operation)")_)
--   _insert_: adding a new key to the heap (a.k.a., _push_[[4]](https://en.wikipedia.org/wiki/Heap_(data_structure)#cite_note-4))
--   _extract-max_ (or _extract-min_): returns the node of maximum value from a max heap [or minimum value from a min heap] after removing it from the heap (a.k.a., _pop_[[5]](https://en.wikipedia.org/wiki/Heap_(data_structure)#cite_note-5))
--   _delete-max_ (or _delete-min_): removing the root node of a max heap (or min heap), respectively
--   _replace_: pop root and push a new key. More efficient than pop followed by push, since only need to balance once, not twice, and appropriate for fixed-size heaps.[[6]](https://en.wikipedia.org/wiki/Heap_(data_structure)#cite_note-6)
-
-Creation
-
--   _create-heap_: create an empty heap
--   _heapify_: create a heap out of given array of elements
--   _merge_ (_union_): joining two heaps to form a valid new heap containing all the elements of both, preserving the original heaps.
--   _meld_: joining two heaps to form a valid new heap containing all the elements of both, destroying the original heaps.
-
-Inspection
-
--   _size_: return the number of items in the heap.
--   _is-empty_: return true if the heap is empty, false otherwise.
-
-Internal
-
--   _increase-key_ or _decrease-key_: updating a key within a max- or min-heap, respectively
--   _delete_: delete an arbitrary node (followed by moving last node and sifting to maintain heap)
--   _sift-up_: move a node up in the tree, as long as needed; used to restore heap condition after insertion. Called "sift" because node moves up the tree until it reaches the correct level, as in a [sieve](https://en.wikipedia.org/wiki/Sieve "Sieve").
--   _sift-down_: move a node down in the tree, similar to sift-up; used to restore heap condition after deletion or replacement.
 
 
 #### Array Representation
 ![[binaryheap.png]]
 
-. A binary heap is typically represented as an array.
+A binary heap is typically represented as an array.A priority queue is a data structure for maintaining a set S of elements, each with an associated value called a key.An array Arr that represents a heap is an object with two at-
+tributes: Arr.length, which (as usual) gives the number of elements in the array, and Arr.heap-size, which represents how many elements in the heap are stored within array A. That is, although Arr[1 ... Arr.length] may contain numbers, only the elements in Arr[1 ... Arr.heap-size], where 0 <= A:heap-size <= A:length, are valid elements of the heap.
 
--   The root element will be at Arr[0].
+-   The root element will be at Arr[1].
 -   Below table shows indexes of other nodes for the ith node, i.e., Arr[i]:  
-	- Arr[(i-1)/2]  Returns the parent node
-	- Arr[(2*i)+1] Returns the left child node
-	- Arr[(2*i)+2]  Returns the right child node
+	- Parent(i) : Arr[ floor(i/2) ]  Returns the parent node
+	- Left(i) : Arr[2*i] Returns the left child node
+	- Right(i) : Arr[2*i+1]  Returns the right child node
 
 
-
-
+* Heap operations (Max-Heap example)
+	* maxHeapify(Arr,i) : Mantain min/max heap property for a given array and an element - `O(Log n)`
+		* When it is called, MAX-HEAPIFY assumes that the binary trees rooted at LEFT[i] and RIGHT[i] are max-heaps, but that Arr[i] might be smaller than its children, thus violating the max-heap property. MAX-HEAPIFY lets the value at Arr[i] “ﬂoat down” in the max-heap so that the subtree rooted at index i obeys the max-heap property.
+	* buildMaxHeap() : For given element build a heap,Since the leaves are the nodes indexed by floor(n/2) , floor(n/2) + 1, floor(n/2) + 2, ... n, so each lement is a one element heap to begin with, we run the maxHeapify() in a bottom-up approach to build the heap. Refer CLRS(3rd Edition) 6.3 to find proof.
+	* extractMax() : Removes and returns the root - `O(Log n)`
+	* inreaseKey(Arr,i,j) : Increase the key i to j. - `O(Log n)`
+	* insertKey(Arr,i) : Insert a element with key i.
+	* getMax() :  Return the root node.
+	* deleteKey(Arr, i) : Deletes a key i. 
 
 
 ### Problems
