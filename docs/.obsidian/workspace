@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Data Platform/EMR_Jupyter.md",
+            "file": "Notes/Distributed_System/MapReduce.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Data Platform/EMR_Jupyter.md",
+                "file": "Notes/Distributed_System/MapReduce.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Data Platform/EMR_Jupyter.md",
+                "file": "Notes/Distributed_System/MapReduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Data Platform/EMR_Jupyter.md"
+                "file": "Notes/Distributed_System/MapReduce.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71ccc71e77679f6d",
+  "active": "ddc201281abb15fb",
   "lastOpenFiles": [
-    "Notes/Data Platform/Compute.md",
+    "Notes/Data Engineering/Compute.md",
+    "Notes/Data Engineering/Data Stores.md",
+    "Notes/Data Engineering/Data Platform/EMR_Jupyter.md",
+    "Notes/Data Engineering/Data Platform/Architecture.md",
+    "Notes/Data Engineering/Data Platform/Data Platform.md",
+    "Notes/Data Engineering/Dimensional Modelling.md",
     "Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
     "Notes/Data_Structure_And_Algorithm/Binary_Search.md",
     "Notes/Data_Structure_And_Algorithm/Common_Techniques.md",
-    "Notes/Data Platform/Data Platform.md",
-    "Whats_the_plan..md",
-    "Notes/Data_Structure_And_Algorithm/Linked_List.md",
-    "Notes/Data_Structure_And_Algorithm/Stack_And_Queues.md",
-    "Notes/Architecture_and_Principles/Core_Concepts/Data Mesh.md",
-    "Notes/Architecture_and_Principles/Core_Concepts/Partitioning.md"
+    "Whats_the_plan..md"
   ]
 }

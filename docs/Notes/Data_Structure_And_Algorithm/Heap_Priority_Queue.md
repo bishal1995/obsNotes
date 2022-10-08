@@ -6,19 +6,15 @@ The heap is one maximally efficient implementation of an [abstract data type](ht
 
 A common implementation of a heap is the [binary heap](https://en.wikipedia.org/wiki/Binary_heap "Binary heap"), in which the tree is a [binary tree](https://en.wikipedia.org/wiki/Binary_tree)
 ![[Max-Heap-new.svg]]
-
-
-#### Array Representation
-![[binaryheap.png]]
-
+### Refer CLRS (Ch. Heapsort)
 A binary heap is typically represented as an array.A priority queue is a data structure for maintaining a set S of elements, each with an associated value called a key.An array Arr that represents a heap is an object with two at-
 tributes: Arr.length, which (as usual) gives the number of elements in the array, and Arr.heap-size, which represents how many elements in the heap are stored within array A. That is, although Arr[1 ... Arr.length] may contain numbers, only the elements in Arr[1 ... Arr.heap-size], where 0 <= A:heap-size <= A:length, are valid elements of the heap.
 
--   The root element will be at Arr[1].
+-   The root elem     ent will be at Arr[0].
 -   Below table shows indexes of other nodes for the ith node, i.e., Arr[i]:  
-	- Parent(i) : Arr[ floor(i/2) ]  Returns the parent node
-	- Left(i) : Arr[2*i] Returns the left child node
-	- Right(i) : Arr[2*i+1]  Returns the right child node
+	- Parent(i) : Arr[ (i-1)/2 ]  Returns the parent node
+	- Left(i) : Arr[(2*i) + 1] Returns the left child node
+	- Right(i) : Arr[(2*i)+2]  Returns the right child node
 
 
 * Heap operations (Max-Heap example)
@@ -33,7 +29,7 @@ tributes: Arr.length, which (as usual) gives the number of elements in the array
 
 
 ### Problems
-- Heap Implementation
+- [Heap Implementation](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=operations-on-binary-min-heap)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 	- [Unique Elements](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 	- [Repeated Elements](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
