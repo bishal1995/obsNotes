@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "b67bbf6dcedf4599",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab07fbd2a7325271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91696c46ce635e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Platform/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21e59ab346dffbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0819c512fa2beef",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c35f05722b2b4f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ad2c2aa45dc00b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03d9b74718e8d944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c511ce3255067449",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca18c773a41ff85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ceb85a27cbdbc67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "21e59ab346dffbac",
+  "lastOpenFiles": [
+    "docs/Notes/Data Engineering/Data Platform/Architecture.md",
+    "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+    "docs/Blogs/DSALgo-Heuristics.md",
+    "docs/Notes/Architecture_and_Principles/Framework map.md",
+    "docs/Notes/Architecture_and_Principles/Elements/Flink/Architecture.md",
+    "docs/Notes/Architecture_and_Principles/Elements/Spark/Structured_Streaming..md",
+    "docs/Notes/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
+    "docs/Notes/Architecture_and_Principles/Elements/Spark/What_is_it ?.md",
+    "docs/Notes/Data Engineering/Compute.md",
+    "docs/Whats_the_plan..md"
+  ]
+}
