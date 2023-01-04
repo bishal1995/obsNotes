@@ -1,3 +1,8 @@
 {
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "tabSize": 3,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "readableLineLength": false
 }

@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Platform/Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21e59ab346dffbac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+                "file": "docs/Notes/Kubernetes/K8s 1O1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+                "file": "docs/Notes/Kubernetes/K8s 1O1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +105,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21e59ab346dffbac",
+  "active": "91696c46ce635e2e",
   "lastOpenFiles": [
     "docs/Notes/Data Engineering/Data Platform/Architecture.md",
+    "docs/Files/Images/container_evolution.svg",
+    "docs/Notes/Kubernetes/K8s 1O1.md",
+    "docs/Files/Images/Data_Queue.svg",
     "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
     "docs/Blogs/DSALgo-Heuristics.md",
     "docs/Notes/Architecture_and_Principles/Framework map.md",
     "docs/Notes/Architecture_and_Principles/Elements/Flink/Architecture.md",
     "docs/Notes/Architecture_and_Principles/Elements/Spark/Structured_Streaming..md",
-    "docs/Notes/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
-    "docs/Notes/Architecture_and_Principles/Elements/Spark/What_is_it ?.md",
-    "docs/Notes/Data Engineering/Compute.md",
-    "docs/Whats_the_plan..md"
+    "docs/Notes/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md"
   ]
 }

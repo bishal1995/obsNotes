@@ -1,6 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "",
-  "baseFontSize": 12,
-  "theme": "moonstone"
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "interfaceFontFamily": "Ubuntu"
 }
