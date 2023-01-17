@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Kubernetes/K8s 1O1.md",
+                "file": "docs/Notes/Kubernetes/1. K8s 1O1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Kubernetes/Objects and metadata.md",
+                "file": "docs/Notes/Kubernetes/2. Objects and metadata.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Kubernetes/Architecture.md",
+                "file": "docs/Notes/Kubernetes/3. Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Kubernetes/Architecture.md",
+                "file": "docs/Notes/Kubernetes/3. Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +130,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "463ec0cbcee90c63",
+  "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
-    "docs/Notes/Kubernetes/Objects and metadata.md",
-    "docs/Notes/Kubernetes/Architecture.md",
-    "docs/Notes/Kubernetes/K8s 1O1.md",
+    "docs/Notes/Kubernetes/1. K8s 1O1.md",
+    "docs/Notes/Kubernetes/3. Architecture.md",
+    "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Notes/Data Engineering/Data Platform/Architecture.md",
     "docs/Files/Images/container_evolution.svg",
     "docs/Files/Images/Data_Queue.svg",
