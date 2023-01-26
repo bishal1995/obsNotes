@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91696c46ce635e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Kubernetes/1. K8s 1O1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dd644bf338c6848a",
             "type": "leaf",
             "state": {
@@ -42,9 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2d6202552adeaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Stores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7ce332837241fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Lakes/Hudi/101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a220ec5a9505ed29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Kubernetes/3. Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +151,15 @@
   },
   "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
-    "docs/Notes/Kubernetes/1. K8s 1O1.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "docs/Notes/Data Engineering/Data Lakes/Hudi/101.md",
+    "docs/Notes/Data Science/Artificial intelligence/101.md",
+    "docs/Notes/Data Engineering/Data Stores.md",
+    "docs/Notes/System_Design/Elements.md",
     "docs/Notes/Kubernetes/3. Architecture.md",
     "docs/Notes/Kubernetes/2. Objects and metadata.md",
-    "docs/Notes/Data Engineering/Data Platform/Architecture.md",
-    "docs/Files/Images/container_evolution.svg",
-    "docs/Files/Images/Data_Queue.svg",
-    "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
-    "docs/Blogs/DSALgo-Heuristics.md",
-    "docs/Notes/Architecture_and_Principles/Framework map.md",
-    "docs/Notes/Architecture_and_Principles/Elements/Flink/Architecture.md"
+    "docs/Notes/Data Engineering/Architecture_and_Principles/Elements/Spark/What_is_it ?.md"
   ]
 }
