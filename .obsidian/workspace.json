@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Lakes/Hudi/Concepts.md",
+                "file": "docs/Notes/Kubernetes/5. Workloads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35abcb0b0164c428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "972872960efdb250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Kubernetes/5. Workloads.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Lakes/Hudi/Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f569479bc769e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Data Lakes/Hudi/Kwik DataSets.md",
+                "file": "docs/Notes/Kubernetes/3. Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Lakes/Hudi/Kwik DataSets.md",
+                "file": "docs/Notes/Kubernetes/5. Workloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +134,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
@@ -129,15 +142,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10f569479bc769e2",
+  "active": "972872960efdb250",
   "lastOpenFiles": [
-    "docs/Notes/Data Engineering/Data Lakes/Hudi/Concepts.md",
+    "docs/Notes/BlockChain/What is it ?.md",
+    "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+    "docs/Notes/BlockChain",
+    "docs/Notes/Data Engineering/Data Lakes/Hudi/Kwik DataSets.md",
     "docs/Notes/Data Engineering/Data Lakes/Hudi/Hudi Elements.md",
+    "docs/Notes/Data Engineering/Data Lakes/Hudi/Concepts.md",
+    "docs/Notes/Data Engineering/Data Platform/Architecture.md",
+    "docs/Notes/Data Engineering/Data Platform/Data Platform.md",
+    "docs/Notes/Data Engineering/Data Platform/EMR_Jupyter.md",
+    "docs/Notes/Kubernetes/5. Workloads.md",
+    "docs/Notes/Kubernetes/1. K8s 1O1.md",
     "docs/Notes/Kubernetes/3. Architecture.md",
-    "docs/Notes/Kubernetes/4. Workloads.md",
+    "docs/Notes/Kubernetes/2. Objects and metadata.md",
+    "docs/Notes/Kubernetes/4. Containers.md",
+    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
     "docs/Notes/Data Engineering/Data Stores.md",
     "docs/Files/Images/hudi_cow-9750b5f006646e2d1874ad18b355d200.png",
-    "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas"
