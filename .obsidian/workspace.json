@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Study/SEBI RA/Securities Market.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a08ba717ee6e793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Study/SEBI RA/Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Study/SEBI RA/Securities Market.md",
+                "file": "docs/Study/SEBI RA/Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,16 +190,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6c2c8ca3fab8b00",
+  "active": "8a08ba717ee6e793",
   "lastOpenFiles": [
+    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
+    "docs/Study/SEBI RA/Market.md",
+    "docs/Study/SEBI RA/Securities.md",
+    "README.md",
     "docs/Notes/Kubernetes/2. Objects and metadata.md",
-    "docs/Study/SEBI RA/Securities Market.md",
     "docs/Study/SEBI RA",
     "docs/Study",
     "docs/Notes/Kubernetes/1. K8s 1O1.md",
     "docs/Notes/Kubernetes/3. Architecture.md",
     "docs/Notes/Kubernetes/KCNA.md",
-    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Notes/Data Engineering/Data Platform/Real time Analytics.md",
     "docs/Notes/Kubernetes/5. Workloads.md",
     "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
