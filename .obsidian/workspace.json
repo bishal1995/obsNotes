@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Kubernetes/5. Workloads.md",
+                "file": "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Study/SEBI RA/Market.md",
-                "mode": "source",
+                "file": "docs/Notes/Data Engineering/Data Stores.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Study/SEBI RA/Market.md",
+                "file": "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,13 +171,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c6f75d63bf1693dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,20 +197,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a08ba717ee6e793",
+  "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
-    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
+    "docs/Files/Images/checkpoints.svg",
+    "docs/Files/Images/stream_unaligning.svg",
+    "docs/Files/Images/stream_aligning.svg",
+    "docs/Notes/Data Engineering/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
+    "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
+    "docs/Files/Images/stream_barriers.svg",
+    "docs/Files/Images/state_partitioning.svg",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "docs/Files/Images/levels_of_abstraction.svg",
+    "docs/Notes/Data Engineering/Data Stores.md",
+    "docs/Notes/Data Engineering/Streaming/Flink",
+    "docs/Notes/Data Engineering/Streaming",
+    "docs/Notes/Data Engineering/Compute.md",
+    "docs/Notes/Kubernetes/1. K8s 1O1.md",
+    "docs/Notes/Kubernetes/5. Workloads.md",
+    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
+    "docs/Notes/Kubernetes/4. Containers.md",
+    "docs/Notes/Kubernetes/3. Architecture.md",
+    "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Study/SEBI RA/Market.md",
+    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Study/SEBI RA/Securities.md",
     "README.md",
-    "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Study/SEBI RA",
     "docs/Study",
-    "docs/Notes/Kubernetes/1. K8s 1O1.md",
-    "docs/Notes/Kubernetes/3. Architecture.md",
     "docs/Notes/Kubernetes/KCNA.md",
     "docs/Notes/Data Engineering/Data Platform/Real time Analytics.md",
-    "docs/Notes/Kubernetes/5. Workloads.md",
     "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
     "docs/Notes/BlockChain/What is it ?.md",
     "docs/Notes/BlockChain",
@@ -213,12 +236,7 @@
     "docs/Notes/Data Engineering/Data Platform/Architecture.md",
     "docs/Notes/Data Engineering/Data Platform/Data Platform.md",
     "docs/Notes/Data Engineering/Data Platform/EMR_Jupyter.md",
-    "docs/Notes/Kubernetes/4. Containers.md",
-    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
-    "docs/Notes/Data Engineering/Data Stores.md",
     "docs/Files/Images/hudi_cow-9750b5f006646e2d1874ad18b355d200.png",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled.canvas"
+    "Untitled 2.canvas"
   ]
 }

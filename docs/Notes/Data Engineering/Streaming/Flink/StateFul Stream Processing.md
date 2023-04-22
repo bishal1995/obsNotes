@@ -1,0 +1,39 @@
+
+
+![[levels_of_abstraction.svg]]
+
+* Stateful stream processing
+	* Lowest level abstraction simply offers **stateful and timely stream processing**.It is embedded into the [DataStream API](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/datastream/overview/) via the [Process Function](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/datastream/operators/process_function/). It allows users to freely process events from one or more streams, and provides consistent, fault tolerant _state_.
+* DataStream(bounded/unbounded streams) / DataSet(bounded data sets) API
+	* These fluent APIs offer the common building blocks for data processing, like various forms of user-specified transformations, joins, aggregations, windows, state, etc.
+* Table API
+	* The [Table API](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/table/overview/) follows the (extended) relational model: Tables have a schema attached (similar to tables in relational databases) and the API offers comparable operations, such as select, project, join, group-by, aggregate, etc. Table API programs declaratively define _what logical operation should be done_ rather than specifying exactly _how the code for the operation looks_.
+* SQL
+	* This abstraction is similar to the _Table API_ both in semantics and expressiveness, but represents programs as SQL query expressions. The [SQL](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/dev/table/overview/#sql) abstraction closely interacts with the Table API
+
+##### [Stateful Stream Processing](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/concepts/stateful-stream-processing/#stateful-stream-processing)
+* Keyed State : Acts like an embedded key/value store.The state is partitioned and distributed strictly together with the streams that are read by the stateful operators.Aligning the keys of streams and state makes sure that all state updates are local operations, guaranteeing consistency without transaction overhead. This alignment also allows Flink to redistribute the state and adjust the stream partitioning transparently.Keyed State is further organized into so-called _Key Groups_. Key Groups are the atomic unit by which Flink can redistribute Keyed State; there are exactly as many Key Groups as the defined maximum parallelism. During execution each parallel instance of a keyed operator works with the keys for one or more Key Groups.
+	* ![[state_partitioning.svg]]
+* State Persistence : Flink implements fault tolerance using a combination of stream replay and checkpointing. The fault tolerance mechanism continuously draws snapshots of the distributed streaming data flow. 
+	* Checkpoint/Snapshot : A checkpoint marks a specific point in each of the input streams along with the corresponding state for each of the operators.By setting the checkpoint interval we can decide the trade-off between overhead of fault tolerance and recovery time(the number of records that need to be replayed). Checkpointing can be done asynchronously.
+		* Barriers
+			* These barriers are injected into the data stream and flow with the records as part of the data stream.The barriers then flow downstream. When an intermediate operator has received a barrier for snapshot _n_ from all of its input streams, it emits a barrier for snapshot _n_ into all of its outgoing streams. Once a sink operator (the end of a streaming DAG) has received the barrier _n_ from all of its input streams, it acknowledges that snapshot _n_ to the checkpoint coordinator. After all sinks have acknowledged a snapshot, it is considered completed.
+			* ![[stream_barriers.svg]]
+			* Barrier alligmment for operator with multiple input stream
+				*  As soon as the operator receives snapshot barrier _n_ from an incoming stream, it cannot process any further records from that stream until it has received the barrier _n_ from the other inputs as well. Otherwise, it would mix records that belong to snapshot _n_ and with records that belong to snapshot _n+1_.
+				* Once the last stream has received barrier _n_, the operator emits all pending outgoing records, and then emits snapshot _n_ barriers itself.
+				* It snapshots the state and resumes processing records from all input streams, processing records from the input buffers before processing the records from the streams.
+				* Finally, the operator writes the state asynchronously to the state backend.
+				* ![[stream_aligning.svg]]
+				* Recovery : Upon a failure, Flink selects the latest completed checkpoint _k_. The system then re-deploys the entire distributed dataflow, and gives each operator the state that was snapshotted as part of checkpoint _k_. The sources are set to start reading the stream from position _Sk_
+			* Unalogned Checkpointing : Especially suited for applications with at least one slow moving data path
+				* The operator reacts on the first barrier that is stored in its input buffers.
+				* It immediately forwards the barrier to the downstream operator by adding it to the end of the output buffers.
+				* The operator marks all overtaken records to be stored asynchronously and creates a snapshot of its own state.
+				* ![[stream_unaligning.svg]]
+				* Recovery : Operators first recover the in-flight data before starting processing any data from upstream operators in unaligned checkpointing. Aside from that, it performs the same steps as during [recovery of aligned checkpoints](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/concepts/stateful-stream-processing/#recovery).
+			* State Backends
+				* The exact data structures in which the key/values indexes are stored depends on the chosen [state backend](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/ops/state/state_backends/). One state backend stores data in an in-memory hash map, another state backend uses [RocksDB](http://rocksdb.org) as the key/value store. In addition to defining the data structure that holds the state, the state backends also implement the logic to take a point-in-time snapshot of the key/value state and store that snapshot as part of a checkpoint
+				* ![[checkpoints.svg]]
+		* Savepoints
+			* [Savepoints](https://nightlies.apache.org/flink/flink-docs-release-1.17/docs/ops/state/savepoints/) are **manually triggered checkpoints**, which take a snapshot of the program and write it out to a state backend. They rely on the regular checkpointing mechanism for this.
