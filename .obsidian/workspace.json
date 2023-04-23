@@ -102,8 +102,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45a13b349f1c16da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Streaming/Flink/Timely Stream Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ce1df3d88e3e12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data Engineering/Streaming/Flink/Flink Cluster Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -161,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
+                "file": "docs/Notes/Data Engineering/Streaming/Flink/Flink Cluster Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,46 +223,51 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "56ad2c2aa45dc00b",
+  "active": "4ce1df3d88e3e12d",
   "lastOpenFiles": [
+    "docs/Files/Images/slot_sharing.svg",
+    "docs/Files/Images/tasks_chains.svg",
+    "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
+    "docs/Notes/Data Engineering/Streaming/Flink/Timely Stream Processing.md",
+    "docs/Notes/Kubernetes/KCNA.md",
+    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
+    "docs/Notes/Kubernetes/5. Workloads.md",
+    "docs/Notes/Kubernetes/4. Containers.md",
+    "docs/Notes/Kubernetes/3. Architecture.md",
+    "docs/Notes/Kubernetes/2. Objects and metadata.md",
+    "docs/Notes/Kubernetes/1. K8s 1O1.md",
+    "docs/Notes/BlockChain/What is it ?.md",
+    "docs/Notes/Data Engineering/Streaming/Flink/Flink Cluster Architecture.md",
+    "docs/Files/Images/processes.svg",
+    "docs/Files/Images/parallel_streams_watermarks.svg",
+    "docs/Files/Images/stream_watermark_out_of_order.svg",
+    "docs/Files/Images/stream_watermark_in_order.svg",
     "docs/Files/Images/checkpoints.svg",
     "docs/Files/Images/stream_unaligning.svg",
     "docs/Files/Images/stream_aligning.svg",
     "docs/Notes/Data Engineering/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
-    "docs/Notes/Data Engineering/Streaming/Flink/StateFul Stream Processing.md",
     "docs/Files/Images/stream_barriers.svg",
     "docs/Files/Images/state_partitioning.svg",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "docs/Files/Images/levels_of_abstraction.svg",
     "docs/Notes/Data Engineering/Data Stores.md",
     "docs/Notes/Data Engineering/Streaming/Flink",
     "docs/Notes/Data Engineering/Streaming",
     "docs/Notes/Data Engineering/Compute.md",
-    "docs/Notes/Kubernetes/1. K8s 1O1.md",
-    "docs/Notes/Kubernetes/5. Workloads.md",
-    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
-    "docs/Notes/Kubernetes/4. Containers.md",
-    "docs/Notes/Kubernetes/3. Architecture.md",
-    "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Study/SEBI RA/Market.md",
     "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Study/SEBI RA/Securities.md",
     "README.md",
     "docs/Study/SEBI RA",
     "docs/Study",
-    "docs/Notes/Kubernetes/KCNA.md",
     "docs/Notes/Data Engineering/Data Platform/Real time Analytics.md",
     "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
-    "docs/Notes/BlockChain/What is it ?.md",
     "docs/Notes/BlockChain",
     "docs/Notes/Data Engineering/Data Lakes/Hudi/Kwik DataSets.md",
     "docs/Notes/Data Engineering/Data Lakes/Hudi/Hudi Elements.md",
     "docs/Notes/Data Engineering/Data Lakes/Hudi/Concepts.md",
     "docs/Notes/Data Engineering/Data Platform/Architecture.md",
     "docs/Notes/Data Engineering/Data Platform/Data Platform.md",
-    "docs/Notes/Data Engineering/Data Platform/EMR_Jupyter.md",
-    "docs/Files/Images/hudi_cow-9750b5f006646e2d1874ad18b355d200.png",
     "Untitled 2.canvas"
   ]
 }
