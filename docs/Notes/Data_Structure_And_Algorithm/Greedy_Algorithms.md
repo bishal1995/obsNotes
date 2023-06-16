@@ -18,23 +18,14 @@ Most problems for which they work will have two properties
 ## Different Types of Greedy Algorithm [Programiz](https://www.programiz.com/dsa/greedy-algorithm) list
 
 -   [Selection Sort](https://www.programiz.com/dsa/selection-sort)
-    
 -   [Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
-    
 -   [Minimum Spanning Tree](https://www.programiz.com/dsa/spanning-tree-and-minimum-spanning-tree)
-    
 -   [Single-Source Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem)
-    
 -   Job Scheduling Problem
-    
 -   [Prim's Minimal Spanning Tree Algorithm](https://www.programiz.com/dsa/prim-algorithm)
-    
 -   [Kruskal's Minimal Spanning Tree Algorithm](https://www.programiz.com/dsa/kruskal-algorithm)
-    
 -   [Dijkstra's Minimal Spanning Tree Algorithm](https://www.programiz.com/dsa/dijkstra-algorithm)
-    
 -   [Huffman Coding](https://www.programiz.com/dsa/huffman-coding)
-    
 -   [Ford-Fulkerson Algorithm](https://www.programiz.com/dsa/ford-fulkerson-algorithm)
 
 

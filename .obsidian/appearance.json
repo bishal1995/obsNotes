@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "GitHub theme",
-  "baseFontSize": 22,
+  "baseFontSize": 19,
   "theme": "moonstone",
-  "interfaceFontFamily": "Ubuntu"
+  "interfaceFontFamily": "Ubuntu",
+  "showViewHeader": false
 }

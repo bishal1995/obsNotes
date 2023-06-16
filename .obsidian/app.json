@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "foldIndent": true,
   "showIndentGuide": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showInlineTitle": true
 }

@@ -8,151 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "463ec0cbcee90c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Streaming/Flink/1. StateFul Stream Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35abcb0b0164c428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Data Platform/Real time Analytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43afaebd3ecda018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "972872960efdb250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Kubernetes/1. K8s 1O1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f302d5f2965577c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Kubernetes/2. Objects and metadata.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6c2c8ca3fab8b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a08ba717ee6e793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Data Stores.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bccd8c7a4b329d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Kubernetes/3. Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45a13b349f1c16da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Streaming/Flink/2. Timely Stream Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ce1df3d88e3e12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data Engineering/Streaming/Flink/1. StateFul Stream Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21274dc8d84cc408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "83bcef18059b1644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Modelling/Data Modelling.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data Engineering/Data Modelling/Data Modelling.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,50 +122,51 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "83bcef18059b1644",
+  "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
-    "docs/Notes/Data Engineering/Data Modelling/Data Modelling.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+    "docs/Notes/Kubernetes/7. Volumes.md",
+    "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
+    "docs/Notes/Data Engineering/Data Modelling/101.md",
+    "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
+    "docs/Notes/Distributed_System/MapReduce.md",
+    "docs/Notes/Data Engineering/Reference.md",
+    "docs/Notes/Data Engineering/Data Governance/Elements of Data Governance.md",
+    "docs/Notes/Data Engineering/Data Stores.md",
+    "docs/Notes/Data Engineering/Data Governance",
+    "docs/Notes/Data Engineering/Compute.md",
+    "docs/Notes/Data Engineering/Dimensional Modelling.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "docs/Blogs/DSALgo-Heuristics.md",
     "docs/Notes/Data Engineering/Data Modelling",
     "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Notes/Kubernetes/1. K8s 1O1.md",
     "docs/Notes/Kubernetes/3. Architecture.md",
     "docs/Notes/Kubernetes/4. Containers.md",
     "docs/Notes/Kubernetes/5. Workloads.md",
-    "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
     "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "docs/Notes/Data_Structure_And_Algorithm/Backtracking.md",
     "docs/Notes/Data Engineering/Streaming/Flink/4. Data Transformations.md",
     "docs/Notes/Data Engineering/Streaming/Flink/1. StateFul Stream Processing.md",
     "docs/Study/SEBI RA/Market.md",
     "docs/Whats_the_plan..md",
     "docs/Study/SEBI RA/Securities.md",
-    "docs/Study/Algo tragding/What is technically possible ?.md",
     "docs/Files/Images/slot_sharing.svg",
     "docs/Files/Images/structured-streaming-late-data.png",
-    "docs/Blogs/DSALgo-Heuristics.md",
     "docs/Study/Algo tragding",
-    "docs/Notes/BlockChain/What is it ?.md",
-    "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Files/Images/checkpointing.svg",
-    "docs/Notes/Data Engineering/Streaming/Flink/2. Timely Stream Processing.md",
-    "docs/Notes/Data Engineering/Streaming/Flink/3. Flink Cluster Architecture.md",
     "docs/Files/Images/big-data-platform.png",
     "docs/Files/Images/tasks_chains.svg",
-    "docs/Notes/Kubernetes/KCNA.md",
     "docs/Files/Images/processes.svg",
     "docs/Files/Images/parallel_streams_watermarks.svg",
     "docs/Files/Images/stream_watermark_out_of_order.svg",
     "docs/Files/Images/stream_watermark_in_order.svg",
     "docs/Files/Images/checkpoints.svg",
-    "docs/Notes/Data Engineering/Architecture_and_Principles/Elements/Spark/Spark_Streaming_(DStream).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "docs/Notes/Data Engineering/Data Stores.md",
     "docs/Notes/Data Engineering/Streaming/Flink",
     "docs/Notes/Data Engineering/Streaming",
-    "docs/Notes/Data Engineering/Compute.md",
-    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Study/SEBI RA",
     "docs/Study",
     "docs/Notes/BlockChain",
