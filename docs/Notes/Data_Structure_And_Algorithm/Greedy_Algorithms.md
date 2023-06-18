@@ -1,17 +1,17 @@
-Greedy Algorithm
+#### Optimal Substructure
+A problem exhibits optimal substructure if an optimal solution to the problem contains within it optimal solutions to subproblems.
 
-A greedy algorithm is any [algorithm](https://en.wikipedia.org/wiki/Algorithm) that follows the problem-solving [heuristic](https://en.wikipedia.org/wiki/Heuristic_(computer_science)) of making the locally optimal choice at each stage.[[1]](https://en.wikipedia.org/wiki/Greedy_algorithm#cite_note-NISTg-1) In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time.
 
-  
-
+#### Identify a problem to be solved by greedy approach
 Most problems for which they work will have two properties
+* **`Greedy choice property`** : When we are considering which choice to make, we make the choice that looks best in the current problem, without considering results from subproblems. We can assemble a globally optimal solution by making locally optimal (greedy) choices.
+* **`Optimal sunstructure`** : A problem exhibits this property if an optimal solution to the problem contains within it optimal solutions to subproblems.
 
--   Greedy choice property : We can make whatever choice seems best at the moment and then solve the subproblems that arise later. The choice made by a greedy algorithm may depend on choices made so far, but not on future choices or all the solutions to the subproblem. It iteratively makes one greedy choice after another, reducing each given problem into a smaller one. In other words, a greedy algorithm never reconsiders its choices. This is the main difference from [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming), which is exhaustive and is guaranteed to find the solution. After every stage, dynamic programming makes decisions based on all the decisions made in the previous stage and may reconsider the previous stage's algorithmic path to the solution.
-    
--   Optimal substructure : A problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems.    
+#### Steps to design a greedy solution
+* Cast the optimisation problem as one in which we make a choice and are left with one subproblem to solve.
+* Prove that there is always an optimal solution to the original problem that makes the greedy choice, so that the greedy choice is always safe.
+* Demonstrate optimal substructure by showing that, having made the greedy choice, what remains is a subproblem with the property that if we combine an optimal solution to the subproblem with the greedy choice we have made, we arrive at an optimal solution to the original problem.
 
-  
-  
 
  For interview it is important to remember the patterns, as it hard to prove that the problem can be solved by greedy approach
 
