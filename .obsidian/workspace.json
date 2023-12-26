@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "935bd3ae24b2425a",
-        "type": "split",
+        "id": "ab07fbd2a7325271",
+        "type": "tabs",
         "children": [
           {
-            "id": "ab07fbd2a7325271",
-            "type": "tabs",
-            "dimension": 79.66759002770083,
-            "children": [
-              {
-                "id": "83bcef18059b1644",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "83bcef18059b1644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "ace58671967401ae",
-            "type": "tabs",
-            "dimension": 20.33240997229917,
-            "children": [
-              {
-                "id": "29057238bb8f5897",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "docs/Notes/Data_Structure_And_Algorithm/Heuristics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,6 +102,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "85e2f89f1e46d289",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -141,22 +124,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56ad2c2aa45dc00b",
+  "active": "83bcef18059b1644",
   "lastOpenFiles": [
-    "docs/Notes/Data_Structure_And_Algorithm/Heuristics.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
+    "docs/Notes/System_Design/Elements.md",
+    "docs/Notes/BlockChain/What is it ?.md",
     "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
-    "docs/Notes/Kubernetes/7. Volumes.md",
     "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
+    "docs/Notes/Kubernetes/7. Volumes.md",
+    "docs/Notes/Data Engineering/Data Modelling/Kimball Data modelling.md",
     "docs/Notes/Data Engineering/Data Modelling/101.md",
+    "docs/Whats_the_plan..md",
+    "docs/Notes/Data Engineering/CDC/Postgres.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Heuristics.md",
+    "docs/Notes/Data Engineering/CDC",
+    "docs/Blogs/DSALgo-Heuristics.md",
+    "docs.zip",
+    "ziQIpqWo",
+    "README.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
     "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
     "docs/Notes/Distributed_System/MapReduce.md",
     "docs/Notes/Data Engineering/Reference.md",
@@ -166,19 +160,11 @@
     "docs/Notes/Data Engineering/Compute.md",
     "docs/Notes/Data Engineering/Dimensional Modelling.md",
     "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
-    "docs/Blogs/DSALgo-Heuristics.md",
     "docs/Notes/Data Engineering/Data Modelling",
     "docs/Notes/Kubernetes/2. Objects and metadata.md",
     "docs/Notes/Kubernetes/1. K8s 1O1.md",
     "docs/Notes/Kubernetes/3. Architecture.md",
     "docs/Notes/Kubernetes/4. Containers.md",
-    "docs/Notes/Kubernetes/5. Workloads.md",
-    "docs/Notes/Kubernetes/Airflow_Kubernetes.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Backtracking.md",
-    "docs/Notes/Data Engineering/Streaming/Flink/4. Data Transformations.md",
-    "docs/Notes/Data Engineering/Streaming/Flink/1. StateFul Stream Processing.md",
-    "docs/Study/SEBI RA/Market.md",
-    "docs/Whats_the_plan..md",
     "docs/Files/Images/slot_sharing.svg",
     "docs/Files/Images/structured-streaming-late-data.png",
     "docs/Study/Algo tragding",
@@ -196,7 +182,6 @@
     "docs/Notes/Data Engineering/Streaming",
     "docs/Study/SEBI RA",
     "docs/Study",
-    "docs/Notes/BlockChain",
     "Untitled 2.canvas"
   ]
 }

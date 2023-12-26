@@ -20,7 +20,7 @@ Every function has its own workspace **PER CALL** of the function.
 
 
 ## General Observation/Techniques
--	Try to visualise the problem in terms of recurssion tree representation of the problem
+-	Try to visualise the problem in terms of recursion tree representation of the problem
 	-	Try guessing the time and space Complexity
 	-	
 
@@ -28,6 +28,10 @@ Every function has its own workspace **PER CALL** of the function.
 ## Loops and Tail Recursion
 Some recursive algorithms are very similar to loops. These algorithms are called "tail recursive" because the last statement in the algorithm is to "restart" the algorithm. Tail recursive algorithms can be directly translated into loops.
 
+
+Questions
+* Tower of Hanoo
+* Inorder/PreOrder/PostOrder traversal of a tree.
 
 
 - Subset

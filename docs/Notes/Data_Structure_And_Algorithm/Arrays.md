@@ -36,4 +36,16 @@ SDE Sheet
     
 -   [https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/](https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/%5C) - [https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website](https://www.codingninjas.com/codestudio/problems/1115652?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website)
     
--
+
+
+
+
+* Good Problems
+	* https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+	* https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
+	* https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
+	* https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150
+
+### Pattern
+* One Pass : https://en.wikipedia.org/wiki/One-pass_algorithm
+* Two pointer
