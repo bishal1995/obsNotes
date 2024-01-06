@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c511ce3255067449",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -134,8 +137,13 @@
   },
   "active": "83bcef18059b1644",
   "lastOpenFiles": [
-    "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+    "docs/Notes/Java.md",
+    "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/System_Design/Elements.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Paradigm.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
     "docs/Notes/BlockChain/What is it ?.md",
     "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
@@ -159,12 +167,7 @@
     "docs/Notes/Data Engineering/Data Governance",
     "docs/Notes/Data Engineering/Compute.md",
     "docs/Notes/Data Engineering/Dimensional Modelling.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
     "docs/Notes/Data Engineering/Data Modelling",
-    "docs/Notes/Kubernetes/2. Objects and metadata.md",
-    "docs/Notes/Kubernetes/1. K8s 1O1.md",
-    "docs/Notes/Kubernetes/3. Architecture.md",
-    "docs/Notes/Kubernetes/4. Containers.md",
     "docs/Files/Images/slot_sharing.svg",
     "docs/Files/Images/structured-streaming-late-data.png",
     "docs/Study/Algo tragding",

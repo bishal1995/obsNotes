@@ -49,3 +49,10 @@ SDE Sheet
 ### Pattern
 * One Pass : https://en.wikipedia.org/wiki/One-pass_algorithm
 * Two pointer
+* Sliding Window
+* Prefix sum
+
+
+
+* Proof by contradiction
+* 
