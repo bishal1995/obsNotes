@@ -31,6 +31,7 @@ Links with mentioned patterns for DSA questions
 	* Top K
 	* Moving best
 	* Multiple heap
+	* Two Heap
 * Dynamic Programming
 	* Grid
 	* Dynamic number of subproblems
@@ -52,13 +53,23 @@ Links with mentioned patterns for DSA questions
 	* Pruning
 	* Aggregation and Memoization
 	* Dedup
-* Monotonic Stack (44)
+* Sorting
+* Cyclic sort
+* Monotonic Stack
 * Union Find | Disjoint set Union
 * Trie
 * Binary search tree
 * Segment Tree
+* Bit Manipulation
 
 
 
 General Implementation pattern : https://algo.monster/templates
 
+
+
+Curate the Lists from following links
+* https://www.youtube.com/@EricProgramming
+* https://takeuforward.org/playlists/top-array-interview-questions-structured-path-with-video-solutions/
+* https://leetcode.com/studyplan/top-interview-150/
+* https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/

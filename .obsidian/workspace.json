@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "713912820c7c573a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+                "file": "docs/Notes/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,13 +148,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83bcef18059b1644",
+  "active": "713912820c7c573a",
   "lastOpenFiles": [
-    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
     "docs/Notes/Java.md",
-    "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/System_Design/Elements.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/Data_Structure_And_Algorithm/Paradigm.md",
     "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
     "docs/Notes/BlockChain/What is it ?.md",
