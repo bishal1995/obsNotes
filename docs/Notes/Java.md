@@ -60,3 +60,8 @@ set.clear()
 set.size()
 
 ```
+* Common tricks
+```java
+// Character to ASCII 
+int chASCII = 'a';
+```
