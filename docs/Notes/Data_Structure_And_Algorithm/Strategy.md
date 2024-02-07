@@ -20,25 +20,28 @@ Links with mentioned patterns for DSA questions
 
 **List of pattern**
 * Binary Search
-* Two Pointers
-	* Same direction
-	* Opposite direction
-	* Sliding Window
-	* Prefix Sum
-	* Cycle finding
-	* Fast and slow moving pointer
-* Priority Queue/Heap
+* Array
+	* Two Pointers
+		* Same direction
+		* Opposite direction
+		* Sliding Window
+		* Prefix Sum
+		* Cycle finding
+		* Fast and slow moving pointer
+* Matrix
+* Linked List
+* Queue
+* Interval
+	* LC Questions
+		* https://leetcode.com/problems/summary-ranges/description/
+		* 
+* Stack
+	* Monotonic Stack
+* Priority Queue/Heap [[Heap_Priority_Queue]]
 	* Top K
 	* Moving best
 	* Multiple heap
 	* Two Heap
-* Dynamic Programming
-	* Grid
-	* Dynamic number of subproblems
-	* Interval
-	* Dual-Sequence
-	* KnapSack
-	* Bitmask
 * Graph
 	* Breath first search
 	* Depth first search
@@ -53,14 +56,24 @@ Links with mentioned patterns for DSA questions
 	* Pruning
 	* Aggregation and Memoization
 	* Dedup
+* Dynamic Programming
+	* Grid
+	* Dynamic number of subproblems
+	* Interval
+	* Dual-Sequence
+	* KnapSack
+	* Bitmask
 * Sorting
-* Cyclic sort
-* Monotonic Stack
+	* Cyclic sort
 * Union Find | Disjoint set Union
 * Trie
 * Binary search tree
 * Segment Tree
 * Bit Manipulation
+
+* Extra topics : Not Important 
+	* [Interval tree](https://www.geeksforgeeks.org/interval-tree/)
+	* 
 
 
 
