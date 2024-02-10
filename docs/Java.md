@@ -10,6 +10,12 @@ Logical
 * Array
 ```java
 int[] arr = new int[10]; // value initialised with zero
+// Slicing a array
+int[] arr = {10, 20, 30, 40, 50};
+Arrays.copyOfRange(arr, 1, 4); // returns {20, 30, 40}
+// Declaring a array of array and assigning value;
+int[][] op = new int[4][2];
+op[0] = new int[]{1,2};
 ```
 * List
 ```java
