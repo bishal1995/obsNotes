@@ -61,12 +61,16 @@ while (iterator.hasNext()) {
 String sampleStr = "boka";
 // Getting a character at a index
 sampleStr.charAt(i);
-
-
 // initialising a string of size N with '0' character
 char carr[] = new char[N];
 Arrays.fill(carr, '0');
 retString = new String(carr);
+// replace a character/sub string from a string
+sampleStr.replace("bo","da");
+// spliting a string
+sampleStr.split("/",0);
+// Equality sheck
+str1.equals(str2);
 
 
 ```
@@ -95,15 +99,27 @@ char c=(char)chASCII;
 // Integer to string
 int i = 1234;
 String str = Integer.toString(i);
+// String to Integer
+int i = Integer.parseInt("200");
 // List of string to string
 String str = String.join(",", strArr);
+// Switch case
+ switch(expression){    
+ case value1:    
+  //code to be executed;    
+  break;  //optional  
+ case value2:    
+  //code to be executed;    
+  break;  //optional  
+ ......    
+
+ default:     
+   code to be executed if all cases are not matched;  
 ```
 
 ```
 ```
 
-```
-* Java tuples
 ```java
 https://www.javatpoint.com/java-tuple
 ```
@@ -141,3 +157,12 @@ int numCOls = matrix[0].length;
 	}
 
 	```
+* Stack
+```java
+// Declare a Stack
+Stack<Integer> stack = new Stack<Integer>();
+stack.push(elem);
+stack.pop(elem);
+stack.peek(); // Returns the top element
+stack.empty(); // Checks whether a stack is empty or not
+```

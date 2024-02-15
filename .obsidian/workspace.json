@@ -42,7 +42,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d775f31c46996fd5",
+        "type": "tabs",
+        "children": [
           {
             "id": "16313e991b357737",
             "type": "leaf",
@@ -55,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +180,10 @@
   },
   "active": "16313e991b357737",
   "lastOpenFiles": [
-    "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
     "docs/Java.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
     "docs/Notes/Self Management.md",
     "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/Distributed_System/MapReduce.md",

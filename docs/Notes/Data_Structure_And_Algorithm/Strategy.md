@@ -33,8 +33,12 @@ Links with mentioned patterns for DSA questions
 * Queue
 * Interval
 	* LC Questions
-		* https://leetcode.com/problems/summary-ranges/description/
-		* 
+		* https://leetcode.com/problems/summary-ranges/
+		* https://leetcode.com/problems/merge-intervals/
+		* https://leetcode.com/problems/insert-interval
+		* https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+		* https://leetcode.com/problems/meeting-rooms/
+		* https://leetcode.com/problems/meeting-rooms-ii/
 * Stack
 	* Monotonic Stack
 * Priority Queue/Heap [[Heap_Priority_Queue]]
@@ -42,6 +46,8 @@ Links with mentioned patterns for DSA questions
 	* Moving best
 	* Multiple heap
 	* Two Heap
+	* Misc
+		* https://leetcode.com/problems/meeting-rooms-ii
 * Graph
 	* Breath first search
 	* Depth first search
