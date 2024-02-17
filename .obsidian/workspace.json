@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bcef18059b1644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Self Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db98c0cdcd9b838d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+                "file": "docs/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,25 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d775f31c46996fd5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16313e991b357737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c511ce3255067449",
@@ -178,13 +146,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16313e991b357737",
+  "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
-    "docs/Java.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
     "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
     "docs/Notes/Self Management.md",
+    "docs/Java.md",
     "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/Distributed_System/MapReduce.md",
     "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",

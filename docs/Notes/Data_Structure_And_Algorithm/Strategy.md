@@ -14,6 +14,7 @@ Links with mentioned patterns for DSA questions
 * https://www.educative.io/courses/grokking-coding-interview-patterns-java ** Grokking
 * https://www.designgurus.io/blog/Grokking-the-Coding%20Interview-Patterns
 * https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb
+* https://liuzhenglaichn.gitbook.io/
 
 
 
@@ -40,7 +41,13 @@ Links with mentioned patterns for DSA questions
 		* https://leetcode.com/problems/meeting-rooms/
 		* https://leetcode.com/problems/meeting-rooms-ii/
 * Stack
+	* Basic Stack
+		* https://leetcode.com/problems/min-stack/
+		* https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 	* Monotonic Stack
+		* https://leetcode.com/problems/daily-temperatures/description/
+		* https://leetcode.com/problems/car-fleet/description/ 
+		* https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 * Priority Queue/Heap [[Heap_Priority_Queue]]
 	* Top K
 	* Moving best
