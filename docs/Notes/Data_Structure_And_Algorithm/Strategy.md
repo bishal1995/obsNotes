@@ -30,7 +30,6 @@ Links with mentioned patterns for DSA questions
 		* Cycle finding
 		* Fast and slow moving pointer
 * Matrix
-* Linked List
 * Queue
 * Interval
 	* LC Questions
@@ -46,8 +45,19 @@ Links with mentioned patterns for DSA questions
 		* https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 	* Monotonic Stack
 		* https://leetcode.com/problems/daily-temperatures/description/
-		* https://leetcode.com/problems/car-fleet/description/ 
-		* https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+		* https://leetcode.com/problems/car-fleet/description/  (Todo)
+		* https://leetcode.com/problems/largest-rectangle-in-histogram/description/ (Todo)
+* Linked List
+	* https://leetcode.com/problems/linked-list-cycle
+* [[Binary Tree]]
+	* General
+		* https://leetcode.com/problems/maximum-depth-of-binary-tree
+		* https://leetcode.com/problems/same-tree/
+		* https://leetcode.com/problems/invert-binary-tree
+		* https://leetcode.com/problems/symmetric-tree
+		* https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+	* Breadth first search
+	* Depth first search
 * Priority Queue/Heap [[Heap_Priority_Queue]]
 	* Top K
 	* Moving best
@@ -61,9 +71,6 @@ Links with mentioned patterns for DSA questions
 	* Directed Graph / Topological sort
 	* Weighted Graph
 	* Minimum spanning tree
-* Tree
-	* Breath first search
-	* Depth first search
 * Backtracking
 	* Combinatorial Search
 	* Pruning

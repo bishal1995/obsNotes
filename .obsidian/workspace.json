@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ab07fbd2a7325271",
+        "id": "f054fdcc2f26da57",
         "type": "tabs",
         "children": [
           {
-            "id": "db98c0cdcd9b838d",
+            "id": "2cb39fc1e71e9da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Java.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0ee6f7e322c7215",
+            "id": "3830f856865cccb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 451.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c511ce3255067449",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Java.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,11 +149,23 @@
   },
   "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
+    "docs/Files/Images/Pasted image 20240222091954.png",
+    "docs/Files/Images/Pasted image 20240222091827.png",
+    "docs/Files/Images/Pasted image 20240222091808.png",
+    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
+    "docs/Files/Images/Pasted image 20240222083104.png",
+    "docs/Files/Images/Pasted image 20230101125915.png",
+    "docs/Files/Images/Pasted image 20230101131330.png",
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
     "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Sorting.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Segment_tree.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
     "docs/Notes/Self Management.md",
-    "docs/Java.md",
     "docs/Notes/Python/Frequently_Used_Patterns.md",
     "docs/Notes/Distributed_System/MapReduce.md",
     "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
@@ -162,22 +175,15 @@
     "docs/Notes/Data_Structure_And_Algorithm/Paradigm.md",
     "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
     "docs/Notes/BlockChain/What is it ?.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
     "docs/Notes/Kubernetes/7. Volumes.md",
     "docs/Notes/Data Engineering/Data Modelling/Kimball Data modelling.md",
     "docs/Notes/Data Engineering/Data Modelling/101.md",
     "docs/Whats_the_plan..md",
     "docs/Notes/Data Engineering/CDC/Postgres.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Heuristics.md",
     "docs/Notes/Data Engineering/CDC",
-    "docs/Blogs/DSALgo-Heuristics.md",
     "docs.zip",
     "ziQIpqWo",
-    "README.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
-    "docs/Notes/Data Engineering/Data Culture/What is the standard of a data driven organization ?.md",
-    "docs/Notes/Data Engineering/Reference.md",
     "docs/Notes/Data Engineering/Data Governance",
     "docs/Notes/Data Engineering/Data Modelling",
     "docs/Files/Images/slot_sharing.svg",
@@ -186,11 +192,6 @@
     "docs/Files/Images/checkpointing.svg",
     "docs/Files/Images/big-data-platform.png",
     "docs/Files/Images/tasks_chains.svg",
-    "docs/Files/Images/processes.svg",
-    "docs/Files/Images/parallel_streams_watermarks.svg",
-    "docs/Files/Images/stream_watermark_out_of_order.svg",
-    "docs/Files/Images/stream_watermark_in_order.svg",
-    "docs/Files/Images/checkpoints.svg",
     "Untitled 1.canvas",
     "docs/Notes/Data Engineering/Streaming/Flink",
     "docs/Notes/Data Engineering/Streaming",
