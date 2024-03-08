@@ -25,7 +25,8 @@ List<Integer> intList = new ArrayList<Integer>();
 List<Integer> intListOfSizeN = new ArrayList<Integer>(N);
 // Adding a element
 intList.add(69);
-
+// Declaring a list of list
+List<List<Integer>> levels = new ArrayList<List<Integer>>();
 ```
 * HashMap
 ```java

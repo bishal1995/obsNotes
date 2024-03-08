@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cb39fc1e71e9da4",
+            "id": "3830f856865cccb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Java.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3830f856865cccb5",
+            "id": "6a1de4dc82f4fa3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.51103591918945,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c511ce3255067449",
@@ -147,17 +146,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56ad2c2aa45dc00b",
+  "active": "6a1de4dc82f4fa3a",
   "lastOpenFiles": [
+    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
     "docs/Files/Images/Pasted image 20240222091954.png",
     "docs/Files/Images/Pasted image 20240222091827.png",
     "docs/Files/Images/Pasted image 20240222091808.png",
-    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
     "docs/Files/Images/Pasted image 20240222083104.png",
     "docs/Files/Images/Pasted image 20230101125915.png",
     "docs/Files/Images/Pasted image 20230101131330.png",
-    "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
     "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
     "docs/Notes/Data_Structure_And_Algorithm/Binary_Search.md",
     "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
@@ -191,7 +190,6 @@
     "docs/Study/Algo tragding",
     "docs/Files/Images/checkpointing.svg",
     "docs/Files/Images/big-data-platform.png",
-    "docs/Files/Images/tasks_chains.svg",
     "Untitled 1.canvas",
     "docs/Notes/Data Engineering/Streaming/Flink",
     "docs/Notes/Data Engineering/Streaming",

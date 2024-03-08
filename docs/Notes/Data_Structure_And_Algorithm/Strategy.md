@@ -56,6 +56,7 @@ Links with mentioned patterns for DSA questions
 		* https://leetcode.com/problems/invert-binary-tree
 		* https://leetcode.com/problems/symmetric-tree
 		* https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+		* https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 	* Breadth first search
 	* Depth first search
 * Priority Queue/Heap [[Heap_Priority_Queue]]

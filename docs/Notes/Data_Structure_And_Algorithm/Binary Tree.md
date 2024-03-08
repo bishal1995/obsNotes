@@ -1,3 +1,33 @@
+
+A **Binary Tree Data Structure** is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. It is commonly used in computer science for efficient storage and retrieval of data, with various operations such as insertion, deletion, and traversal.The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves.
+
+**Representation of Binary Tree****
+Each node in the tree contains the following:
+-  Data
+-  Pointer to the left child
+-  Pointer to the right child
+
+**Basic Operations On Binary Tree:**
+- Inserting an element.
+- Removing an element.
+- Searching for an element.
+- Deletion for an element.
+- Traversing an element.
+
+ **Auxiliary Operations On Binary Tree:**
+-  Finding the height of the tree
+-  Find the level of the tree
+-  Finding the size of the entire tree.
+
+
+
+
+
+### Very important to understand is the order of function calls (Stack generated during the tree traversal).
+
+
+
+
 * Tree traversal
 	* Pre Order traversal **1 -> 2 -> 4 -> 5 -> 3 -> 6**.
 		* ![[Pasted image 20240222083104.png]] 
@@ -5,6 +35,7 @@
 		* ![[Pasted image 20240222091827.png]]
 	* Post Order Traversal **4 -> 5 -> 2 -> 6 -> 3 -> 1**.
 		* ![[Pasted image 20240222091954.png]]
+
 
 
 
