@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.51103591918945,
-    "collapsed": true
+    "width": 228.51103591918945
   },
   "right": {
     "id": "c511ce3255067449",
@@ -134,10 +133,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "748f20417e9821eb",
+  "active": "56ad2c2aa45dc00b",
   "lastOpenFiles": [
     "mkdocs.yml",
-    "Screenshot from 2024-05-07 22-44-51.png",
+    "docs/Files/Images/Screenshot from 2024-05-07 22-44-51.png",
     "docs/Notes/Data Engineering/Tools/Spark/101.md",
     "docs/Files/pdfs/mapreduce-osdi04.pdf",
     "docs/Notes/Data Engineering/Tools/Spark/Core.md",
@@ -153,13 +152,13 @@
     "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Notes/Data Engineering/Tools",
     "docs/Notes/Data Engineering/Data Platform/Architecture.md",
-    "Pasted image 20240507210529.png",
+    "docs/Files/Images/Pasted image 20240507210529.png",
     "docs/Notes/Data Engineering/Data Modelling/101.md",
-    "Screenshot from 2024-04-24 07-32-33.png",
+    "docs/Files/Images/Screenshot from 2024-04-24 07-32-33.png",
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
     "docs/Notes/Data_Structure_And_Algorithm/Graph.md",
     "docs/Notes/Data_Structure_And_Algorithm/Binary_Search_Tree.md",
-    "Pasted image 20240412070246.png",
+    "docs/Files/Images/Pasted image 20240412070246.png",
     "README.md",
     "Untitled.canvas",
     "docs/Notes/Data_Structure_And_Algorithm/Java.md",
