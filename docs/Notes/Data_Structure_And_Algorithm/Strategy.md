@@ -55,10 +55,17 @@ Links with mentioned patterns for DSA questions
 		* https://leetcode.com/problems/same-tree/
 		* https://leetcode.com/problems/invert-binary-tree
 		* https://leetcode.com/problems/symmetric-tree
+		* https://leetcode.com/problems/binary-tree-level-order-traversal
+			* https://leetcode.com/problems/binary-tree-right-side-view
 		* https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 		* https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+		* https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 	* Breadth first search
 	* Depth first search
+* Binary Search Tree
+	* https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+	* https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+	* https://leetcode.com/problems/validate-binary-search-tree/
 * Priority Queue/Heap [[Heap_Priority_Queue]]
 	* Top K
 	* Moving best
@@ -67,6 +74,7 @@ Links with mentioned patterns for DSA questions
 	* Misc
 		* https://leetcode.com/problems/meeting-rooms-ii
 * Graph
+	* https://leetcode.com/problems/number-of-islands/description/
 	* Breath first search
 	* Depth first search
 	* Directed Graph / Topological sort
@@ -88,7 +96,6 @@ Links with mentioned patterns for DSA questions
 	* Cyclic sort
 * Union Find | Disjoint set Union
 * Trie
-* Binary search tree
 * Segment Tree
 * Bit Manipulation
 

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f054fdcc2f26da57",
+        "id": "03f9d17d0bf9e6f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3830f856865cccb5",
+            "id": "748f20417e9821eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a1de4dc82f4fa3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
+                "file": "docs/Notes/Data Engineering/Tools/Spark/Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c511ce3255067449",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
+                "file": "docs/Notes/Data Engineering/Tools/Spark/Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,11 +134,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a1de4dc82f4fa3a",
+  "active": "748f20417e9821eb",
   "lastOpenFiles": [
-    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
+    "mkdocs.yml",
+    "Screenshot from 2024-05-07 22-44-51.png",
+    "docs/Notes/Data Engineering/Tools/Spark/101.md",
+    "docs/Files/pdfs/mapreduce-osdi04.pdf",
+    "docs/Notes/Data Engineering/Tools/Spark/Core.md",
+    "docs/Notes/Data Engineering/Tools/Flink/2. Timely Stream Processing.md",
+    "docs/Files/pdfs/flink-deb.pdf",
+    "docs/Files/pdfs/mapreduce-osdi04.pdf.crdownload",
+    "docs/Notes/Data Engineering/Compute.md",
+    "docs/Notes/Data Engineering/Tools/Flink/1. StateFul Stream Processing.md",
+    "docs/Notes/Data Engineering/Tools/Kafka",
+    "docs/Notes/Data Engineering/Tools/Spark",
+    "docs/Notes/Data Engineering/Tools/Flink/4. Data Transformations.md",
+    "docs/Notes/Data Engineering/Tools/Flink/3. Flink Cluster Architecture.md",
+    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
+    "docs/Notes/Data Engineering/Tools",
+    "docs/Notes/Data Engineering/Data Platform/Architecture.md",
+    "Pasted image 20240507210529.png",
+    "docs/Notes/Data Engineering/Data Modelling/101.md",
+    "Screenshot from 2024-04-24 07-32-33.png",
     "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Graph.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search_Tree.md",
+    "Pasted image 20240412070246.png",
+    "README.md",
+    "Untitled.canvas",
+    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
     "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Backtracking.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search.md",
     "docs/Files/Images/Pasted image 20240222091954.png",
     "docs/Files/Images/Pasted image 20240222091827.png",
     "docs/Files/Images/Pasted image 20240222091808.png",
@@ -158,43 +173,17 @@
     "docs/Files/Images/Pasted image 20230101125915.png",
     "docs/Files/Images/Pasted image 20230101131330.png",
     "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search.md",
     "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
     "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
     "docs/Notes/Data_Structure_And_Algorithm/Sorting.md",
     "docs/Notes/Data_Structure_And_Algorithm/Segment_tree.md",
     "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
     "docs/Notes/Self Management.md",
-    "docs/Notes/Python/Frequently_Used_Patterns.md",
-    "docs/Notes/Distributed_System/MapReduce.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
-    "docs/Notes/Data Science/Artificial intelligence/101.md",
-    "Untitled.canvas",
-    "docs/Notes/System_Design/Elements.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Paradigm.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Recursion.md",
-    "docs/Notes/BlockChain/What is it ?.md",
-    "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
-    "docs/Notes/Kubernetes/7. Volumes.md",
-    "docs/Notes/Data Engineering/Data Modelling/Kimball Data modelling.md",
-    "docs/Notes/Data Engineering/Data Modelling/101.md",
-    "docs/Whats_the_plan..md",
-    "docs/Notes/Data Engineering/CDC/Postgres.md",
     "docs/Notes/Data Engineering/CDC",
     "docs.zip",
     "ziQIpqWo",
     "docs/Notes/Data Engineering/Data Governance",
-    "docs/Notes/Data Engineering/Data Modelling",
-    "docs/Files/Images/slot_sharing.svg",
-    "docs/Files/Images/structured-streaming-late-data.png",
-    "docs/Study/Algo tragding",
-    "docs/Files/Images/checkpointing.svg",
-    "docs/Files/Images/big-data-platform.png",
     "Untitled 1.canvas",
-    "docs/Notes/Data Engineering/Streaming/Flink",
-    "docs/Notes/Data Engineering/Streaming",
-    "docs/Study/SEBI RA",
-    "docs/Study",
     "Untitled 2.canvas"
   ]
 }

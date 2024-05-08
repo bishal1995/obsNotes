@@ -7,6 +7,10 @@ Logical
 	OR  : ||
 */
 ```
+* Type casting
+```
+long k = (long)2147483647 
+```
 * Array
 ```java
 int[] arr = new int[10]; // value initialised with zero
@@ -21,8 +25,6 @@ op[0] = new int[]{1,2};
 ```java
 // Declaring a empty list
 List<Integer> intList = new ArrayList<Integer>();
-// Declaring a empty list of size N
-List<Integer> intListOfSizeN = new ArrayList<Integer>(N);
 // Adding a element
 intList.add(69);
 // Declaring a list of list

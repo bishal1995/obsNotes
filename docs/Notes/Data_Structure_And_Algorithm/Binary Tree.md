@@ -1,4 +1,4 @@
-
+d
 A **Binary Tree Data Structure** is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. It is commonly used in computer science for efficient storage and retrieval of data, with various operations such as insertion, deletion, and traversal.The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves.
 
 **Representation of Binary Tree****
@@ -19,7 +19,21 @@ Each node in the tree contains the following:
 -  Find the level of the tree
 -  Finding the size of the entire tree.
 
+**Binary Tree Traversal**
+* Depth-First Search (DFS) Algorithms
+	* Preorder Traversal (current-left-right)
+	* Inorder Traversal (left-current-right)
+	* Postorder Traversal (left-right-current)
+* Breadth-First Search (BFS) Algorithms
+	* Level Order Traversal
 
+**Properties if Binary Tree**
+*  The maximum number of nodes at level ‘l’ of a binary tree is 2^l
+*  The Maximum number of nodes in a binary tree of height ‘h’ is 2^(h+1) - 1 , where height of root node is zero
+*   In a Binary Tree with N nodes, the minimum possible height or the minimum number of levels is Log2(N+1)
+*  A Binary Tree with L leaves has at least | Log2 L |+ 1   levels
+*  Nodes that do not have any child nodes are called leaf nodes
+* 
 
 
 
