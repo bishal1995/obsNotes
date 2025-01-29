@@ -74,9 +74,17 @@ Links with mentioned patterns for DSA questions
 	* Misc
 		* https://leetcode.com/problems/meeting-rooms-ii
 * Graph
-	* https://leetcode.com/problems/number-of-islands/description/
+	* Misc
+		* https://leetcode.com/problems/number-of-islands/description/ (
+			* Not exactly a Graph represented problem, but can be solved using concepts of BFS & DFS, First part is to visualise that it can be solved via BFS/DFS then try to implement the same.
+		* https://leetcode.com/problems/surrounded-regions/
+			* Think about it from every angle
+	* Union Find | Disjoint set
+		* 
 	* Breath first search
 	* Depth first search
+	* Path search
+		* https://leetcode.com/problems/evaluate-division/
 	* Directed Graph / Topological sort
 	* Weighted Graph
 	* Minimum spanning tree
@@ -94,7 +102,6 @@ Links with mentioned patterns for DSA questions
 	* Bitmask
 * Sorting
 	* Cyclic sort
-* Union Find | Disjoint set Union
 * Trie
 * Segment Tree
 * Bit Manipulation

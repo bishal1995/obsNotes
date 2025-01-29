@@ -1,0 +1,4 @@
+- How to approach the problem
+	- Rough flow
+	- Requirement gathering / clarification
+	- 

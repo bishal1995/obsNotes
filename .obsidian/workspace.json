@@ -4,19 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "03f9d17d0bf9e6f1",
+        "id": "7a420f84274e0d38",
         "type": "tabs",
         "children": [
           {
-            "id": "748f20417e9821eb",
+            "id": "d8ae43c79b18aa2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Notes/Data Engineering/Tools/Spark/Core.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Java.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          }
+        ]
+      },
+      {
+        "id": "30811ad7376b6b8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fecaa83a01daac64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Time Complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Complexity"
             }
           }
         ]
@@ -39,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +78,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Notes/Data Engineering/Tools/Spark/Core.md",
+                "file": "docs/Notes/Data_Structure_And_Algorithm/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Java"
             }
           },
           {
@@ -101,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -113,7 +145,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -133,55 +167,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56ad2c2aa45dc00b",
+  "active": "d8ae43c79b18aa2b",
   "lastOpenFiles": [
+    "docs/Notes/Python/Frequently_Used_Patterns.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Time Complexity.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Union_Find(Disjoint_Set).md",
+    "docs/Notes/Data_Structure_And_Algorithm/Heuristics.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Arrays.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
+    "docs/Whats_the_plan..md",
+    "docs/Interview/Spark.md",
+    "docs/Interview/Resources.md",
+    "docs/Study/Untitled.md",
+    "docs/Notes/Data_Structure_And_Algorithm/Graph.md",
+    "0_w5OgGQ0xC9zVoULQ.webp",
+    "docs/Interview",
+    "Pasted image 20240518105930.png",
+    "docs/Notes/Kubernetes/6. Services, Load Balancing and Networking.md",
+    "docs/Notes/Kubernetes/7. Volumes.md",
+    "docs/Notes/Kubernetes/5. Workloads.md",
+    "docs/Notes/Kubernetes/4. Containers.md",
+    "docs/Notes/Kubernetes/3. Architecture.md",
+    "docs/Notes/Kubernetes/2. Objects and metadata.md",
+    "docs/Notes/Kubernetes/1. K8s 1O1.md",
+    "docs/Notes/Design Pattern/Strategy Design pattern.md",
+    "docs/Notes/Data Engineering/CDC/101.md",
+    "docs/Notes/Data Engineering/CDC/Postgres Core components.md",
+    "docs/Notes/Design Pattern",
+    "docs/Notes/Data Engineering/Tools/Flink/Flink 101.md",
+    "docs/Notes/Data Engineering/Tools/Flink/1. StateFul Stream Processing.md",
+    "docs/Notes/Data Engineering/101.md",
+    "Screenshot from 2024-05-25 11-24-45.png",
+    "Screenshot from 2024-05-25 10-02-58.png",
+    "program_dataflow.svg",
+    "Screenshot from 2024-05-14 09-06-47.png",
+    "Pasted image 20240514090553.png",
+    "docs/Notes/Data Engineering/SQL",
     "mkdocs.yml",
     "docs/Files/Images/Screenshot from 2024-05-07 22-44-51.png",
-    "docs/Notes/Data Engineering/Tools/Spark/101.md",
     "docs/Files/pdfs/mapreduce-osdi04.pdf",
-    "docs/Notes/Data Engineering/Tools/Spark/Core.md",
-    "docs/Notes/Data Engineering/Tools/Flink/2. Timely Stream Processing.md",
     "docs/Files/pdfs/flink-deb.pdf",
     "docs/Files/pdfs/mapreduce-osdi04.pdf.crdownload",
-    "docs/Notes/Data Engineering/Compute.md",
-    "docs/Notes/Data Engineering/Tools/Flink/1. StateFul Stream Processing.md",
     "docs/Notes/Data Engineering/Tools/Kafka",
     "docs/Notes/Data Engineering/Tools/Spark",
-    "docs/Notes/Data Engineering/Tools/Flink/4. Data Transformations.md",
-    "docs/Notes/Data Engineering/Tools/Flink/3. Flink Cluster Architecture.md",
-    "docs/Notes/Data Engineering/Data Platform/Apache Druid.md",
     "docs/Notes/Data Engineering/Tools",
-    "docs/Notes/Data Engineering/Data Platform/Architecture.md",
     "docs/Files/Images/Pasted image 20240507210529.png",
-    "docs/Notes/Data Engineering/Data Modelling/101.md",
     "docs/Files/Images/Screenshot from 2024-04-24 07-32-33.png",
-    "docs/Notes/Data_Structure_And_Algorithm/Strategy.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Graph.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search_Tree.md",
-    "docs/Files/Images/Pasted image 20240412070246.png",
-    "README.md",
     "Untitled.canvas",
-    "docs/Notes/Data_Structure_And_Algorithm/Java.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Binary Tree.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Backtracking.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Binary_Search.md",
-    "docs/Files/Images/Pasted image 20240222091954.png",
-    "docs/Files/Images/Pasted image 20240222091827.png",
-    "docs/Files/Images/Pasted image 20240222091808.png",
-    "docs/Files/Images/Pasted image 20240222083104.png",
-    "docs/Files/Images/Pasted image 20230101125915.png",
-    "docs/Files/Images/Pasted image 20230101131330.png",
-    "docs/Notes/Data_Structure_And_Algorithm/Heap_Priority_Queue.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Dynamic_Programming.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Greedy_Algorithms.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Sorting.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Segment_tree.md",
-    "docs/Notes/Data_Structure_And_Algorithm/Intervals.md",
-    "docs/Notes/Self Management.md",
-    "docs/Notes/Data Engineering/CDC",
-    "docs.zip",
-    "ziQIpqWo",
-    "docs/Notes/Data Engineering/Data Governance",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

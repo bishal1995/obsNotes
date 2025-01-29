@@ -14,6 +14,8 @@ long k = (long)2147483647
 * Array
 ```java
 int[] arr = new int[10]; // value initialised with zero
+// Length of an array
+int arrLength = arr.length ; // A property rather than a method
 // Slicing a array
 int[] arr = {10, 20, 30, 40, 50};
 Arrays.copyOfRange(arr, 1, 4); // returns {20, 30, 40}
